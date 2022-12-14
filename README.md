@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Manzoor</h1>
 <h3 align="center">I'm an unbaked student.</h3>
+<img align="right" alt="Coding" width="400" src=""C:\Users\farha\Downloads\avento.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan7002&label=Profile%20views&color=0e75b6&style=flat" alt="farhan7002" /> </p>
 
